@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fae2cd44-7365-47f1-b6c5-c913d2bd9f6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/h01/h01.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h01/h01.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h01/h01.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h01/h01.3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h01/h01.3.js" afterDir="false" />
+    <list default="true" id="fae2cd44-7365-47f1-b6c5-c913d2bd9f6d" name="Default Changelist" comment="h">
+      <change afterPath="$PROJECT_DIR$/h02/cutie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h02/h02.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h02/h02.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h02/h02.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h02/h02.2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h01.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/h01/h01.2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,13 +35,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled4" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\casme\PhpstormProjects\untitled5\h02" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\casme\PhpstormProjects\untitled5\h01" />
     </key>
@@ -56,11 +59,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615969826589</updated>
-      <workItem from="1615969827686" duration="2032000" />
+      <workItem from="1615969827686" duration="5384000" />
     </task>
+    <task id="LOCAL-00001" summary="h">
+      <created>1615972842848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615972842848</updated>
+    </task>
+    <task id="LOCAL-00002" summary="h">
+      <created>1615973126452</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615973126452</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="h" />
+    <option name="LAST_COMMIT_MESSAGE" value="h" />
   </component>
 </project>

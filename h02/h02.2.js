@@ -1,0 +1,13 @@
+var bl1 = document.getElementById("bl1")
+bl1.style.backgroundColor = "cyan"
+bl1.style.padding = "20px"
+var bl2 = document.getElementById("bl2")
+bl2.style.backgroundColor = "green"
+bl2.style.marginTop = "20px"
+bl2.style.paddingLeft = "20px"
+var bl3 = document.getElementById("bl3")
+bl3.style.backgroundColor = "yellow"
+bl3.style.marginTop = "40px"
+bl3.style.paddingLeft = "40px"
+var bl4 = document.getElementById("bl4")
+bl4.style.backgroundColor = "red"

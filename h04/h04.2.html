@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>image slider</title>
+    <style>
+        #slideholder {
+            height: 600px;
+            width: 600px;
+            border: 3px black solid;
+        }
+
+        img{
+            height: 300px;
+            width: 300px;
+        }
+    </style>
+</head>
+<body>
+<div id="slideholder"></div>
+<script>
+    var plaatjes = [1,2,3,4,5,6,7,8,9];
+    var teller = 0;
+    var slideholder = document.getElementById("slideholder");
+    slideholder.style.backgroundImage = "url('img/a1.jpg')";
+    slideholder.addEventListener("click", function (){
+        slideholder.style.backgroundImage = "url('img/a" + getA() + ".jpg')";
+    });
+    function  getA(){
+        if (teller>= plaatjes.length){
+            teller=0;
+        }
+        teller++;
+        console.log(teller);
+        return teller;
+    }
+</script>
+
+</body>
+</html>

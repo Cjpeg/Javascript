@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        html{
+            margin: 0 0 0 0;
+            padding: 0 0 0 0;
+        }
+        img{
+            height: 300px;
+            width:300px;
+            border: 0px;
+        }
+        #pics {
+            width: 900px;
+            height: 900px;
+            border: solid 1px black;
+            font-size: 0px;
+            margin:auto;
+        }
+    </style>
+</head>
+<body>
+<div id="pics">
+    <img src="img/a1.jpg">
+    <img src="img/a2.jpg">
+    <img src="img/a3.jpg">
+    <img src="img/a4.jpg">
+    <img src="img/a5.jpg">
+    <img src="img/a6.jpg">
+    <img src="img/a7.jpg">
+    <img src="img/a8.jpg">
+    <img src="img/a9.jpg">
+</div>
+<script>
+    var plaatjes = document.getElementsByTagName("img");
+    var random = 0;
+
+    var randomNumbers = [];
+
+    while (randomNumbers.length <9) {
+        var random = Math.floor(Math.random() *9) +1;
+        if(randomNumbers.lastIndexOf(random) == -1){
+        randomNumbers.push(random);
+            }
+        }
+
+    random = 0;
+    for ( var plaatje in plaatjes) {
+        plaatjes[plaatje].src = "img/a" + randomNumbers[random] + ".jpg"
+        random++;
+    }
+
+</script>
+</body>
+</html>

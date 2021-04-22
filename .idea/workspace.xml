@@ -2,20 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fae2cd44-7365-47f1-b6c5-c913d2bd9f6d" name="Default Changelist" comment="h">
-      <change afterPath="$PROJECT_DIR$/h05/h05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/h05.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/a1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/a2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/a3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/a4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/a5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/a6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/a7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/a8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/a9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/pog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/h05/img/pog1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/gm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/gn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/go.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/gsm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/gso.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/lm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/ln.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/lo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/m1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/m1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/m2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/m3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/m4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/n1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/n2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/n3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/n4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/o1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/o2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/o3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/o4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/zm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h04/img/zo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h01/h01.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/h01/h01.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h01/h01.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/h01/h01.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h01/h01.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/h01/h01.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h02/h02.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/h02/h02.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/h03.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/h03/h03.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h03/h03.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h04/h04.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/h04/h04.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h04/h04.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/h04/h04.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/h05.html" beforeDir="false" afterPath="$PROJECT_DIR$/h05/h05.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h05/h05.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,18 +69,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/h05/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/h04/img" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\casme\PhpstormProjects\untitled5\h04\img" />
       <recent name="C:\Users\casme\PhpstormProjects\untitled5\h05\img" />
       <recent name="C:\Users\casme\PhpstormProjects\untitled5\h05" />
       <recent name="C:\Users\casme\PhpstormProjects\untitled5\h04\img1" />
-      <recent name="C:\Users\casme\PhpstormProjects\untitled5\h04\img" />
       <recent name="C:\Users\casme\PhpstormProjects\untitled5\h04" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\casme\PhpstormProjects\untitled5" />
+      <recent name="C:\Users\casme\PhpstormProjects\untitled5\h04\img" />
       <recent name="C:\Users\casme\PhpstormProjects\untitled5\h01" />
     </key>
   </component>
@@ -78,7 +101,7 @@
       <workItem from="1616575155480" duration="5733000" />
       <workItem from="1617868087153" duration="4000" />
       <workItem from="1617869394627" duration="1000" />
-      <workItem from="1619077304699" duration="5089000" />
+      <workItem from="1619077304699" duration="6154000" />
     </task>
     <task id="LOCAL-00001" summary="h">
       <created>1615972842848</created>
@@ -101,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615976325669</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="h">
+      <created>1619082889434</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619082889434</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

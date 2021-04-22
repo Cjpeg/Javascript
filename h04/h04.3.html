@@ -21,7 +21,7 @@
         }
 
         img{
-            height: 300px;
+            height: 400px;
             width: 300px;
         }
     </style>
@@ -32,9 +32,9 @@
     var plaatjes = [1,2,3,4];
     var teller = 0;
     var slideholder = document.getElementById("slideholder");
-    slideholder.style.backgroundImage = "url('img1/o1.png')";
+    slideholder.style.backgroundImage = "url('img/o1.png')";
     slideholder.addEventListener("click", function (){
-        slideholder.style.backgroundImage = "url('img1/o" + getA() + ".png')";
+        slideholder.style.backgroundImage = "url('img/o" + getA() + ".png')";
     });
     function  getA(){
         if (teller>= plaatjes.length){
@@ -50,9 +50,9 @@
     var plaatjes = [1,2,3,4];
     var teller = 0;
     var slideholder1 = document.getElementById("slideholder1");
-    slideholder1.style.backgroundImage = "url('img1/n1.png')";
+    slideholder1.style.backgroundImage = "url('img/n1.png')";
     slideholder1.addEventListener("click", function (){
-        slideholder1.style.backgroundImage = "url('img1/n" + getA() + ".png')";
+        slideholder1.style.backgroundImage = "url('img/n" + getA() + ".png')";
     });
     function  getA(){
         if (teller>= plaatjes.length){
@@ -68,9 +68,9 @@
     var plaatjes = [1,2,3,4];
     var teller = 0;
     var slideholder2 = document.getElementById("slideholder2");
-    slideholder2.style.backgroundImage = "url('img1/m1.png')";
+    slideholder2.style.backgroundImage = "url('img/m1.png')";
     slideholder2.addEventListener("click", function (){
-        slideholder2.style.backgroundImage = "url('img1/m" + getA() + ".png')";
+        slideholder2.style.backgroundImage = "url('img/m" + getA() + ".png')";
     });
     function  getA(){
         if (teller>= plaatjes.length){

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Choose your favorite album</title>
+    <style>
+        body {
+            font-family: Verdana;
+            text-align: center;
+        }
+        div.picture-holder {
+            box-sizing: border-box;
+            height: 450px;
+            width: 300px;
+            float: left;
+            background-color: red;
+            border: solid 1px black;
+        }
+        div.favoriet {
+            width: 300px;
+            height:150px;
+            background-color:cornflowerblue ;
+            background-image: none;
+            background-repeat: no-repeat;
+            background-position: center;
+
+        }
+        #pics {
+            width: 900px;
+            height: 1350px;
+            border: solid 1px black;
+            font-size: 0;
+            margin:auto;
+        }
+        img{
+            width: 300px;
+            height: 300px;
+        }
+
+    </style>
+</head>
+<body>
+<h1>Album chooser</h1>
+<h3>choose your favorite album</h3>
+<div id="pics">
+</div>
+<script>
+    pics = document.getElementById("pics")
+    createPicsHolder();
+    createalbumimgs ();
+
+    function createPicsHolder () {
+        for (var i = 0; i <9; i++) {
+            pictureHolder = document.createElement("div")
+            pictureHolder.className = "picture-holder";
+            pictureHolder.id = "pics-holder" + i;
+            pics.appendChild(pictureHolder)
+        }
+    }
+    function createalbumimgs (){
+        pictureHolder = document.getElementsByClassName("picture-holder")
+        for (var i = 0; i < pictureHolder.length; i++) {
+            favoriet = document.createElement("div")
+            favoriet.className = "favoriet"
+            favoriet.id = "favoriet1" + (i)
+            albumsplaatje =document.createElement("img");
+            albumsplaatje.src = "img/a" + (i+1) + ".jpg";
+            albumsplaatje.id = i;
+            albumsplaatje.addEventListener("click" , function () {
+                maakFavoriet(this.id);
+            });
+            pictureHolder[i].appendChild(favoriet)
+            pictureHolder[i].appendChild(albumsplaatje)
+        }
+
+    }
+    function maakFavoriet(id){
+        console.log("lol" + id)
+        notsofavoriet = document.getElementsByClassName("favoriet")
+        for (var i = 0; i < notsofavoriet.length; i++){
+            notsofavoriet[i].style.backgroundImage = "none";
+        }
+
+        favoriet = document.getElementById("favoriet1" + id);
+        favoriet.style.backgroundImage = "url('img/pog1.png')";
+
+    }
+</script>
+</body>
+</html>
